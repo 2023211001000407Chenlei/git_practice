@@ -2,3 +2,4 @@ Hello from file1
 Updated content
 这是 master 分支添加的内容
 
+这是 master 的第二次修改
